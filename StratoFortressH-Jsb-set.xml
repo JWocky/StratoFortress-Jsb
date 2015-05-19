@@ -34,7 +34,7 @@
 		<engine>JT3D-P3</engine>
 
 		<startup>
-			<splash-texture>Aircraft/StratoFortress-Jsb/B-52F-splash.rgb</splash-texture>
+			<splash-texture>Aircraft/StratoFortress-Jsb/B-52F-splash.png</splash-texture>
 		</startup>
 
 		<!-- Settings for model -->
