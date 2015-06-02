@@ -609,8 +609,8 @@
 
 		<settings>
 			<kts-mach-select type="string">kts</kts-mach-select>
-			<max-pitch type="float">8.0</max-pitch>
-			<bank-angle-limit-deg type="int">65</bank-angle-limit-deg>
+			<max-pitch type="float">6.0</max-pitch>
+			<bank-angle-limit-deg type="int">45</bank-angle-limit-deg>
 		</settings>
 
 		<internal>

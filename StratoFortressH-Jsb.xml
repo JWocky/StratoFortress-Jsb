@@ -147,8 +147,8 @@
 			<static_friction>  0.80 </static_friction>
 			<dynamic_friction> 0.50 </dynamic_friction>
 			<rolling_friction> 0.02 </rolling_friction>
-			<spring_coeff unit="LBS/FT">      210000.00 </spring_coeff>
-			<damping_coeff unit="LBS/FT/SEC"> 125500.00 </damping_coeff>
+			<spring_coeff unit="LBS/FT">      150000.00 </spring_coeff>
+			<damping_coeff unit="LBS/FT/SEC">  80500.00 </damping_coeff>
 			<max_steer unit="DEG">45</max_steer>
 			<brake_group>LEFT</brake_group>
 			<retractable>1</retractable>
@@ -163,8 +163,8 @@
 			<static_friction>  0.80 </static_friction>
 			<dynamic_friction> 0.50 </dynamic_friction>
 			<rolling_friction> 0.02 </rolling_friction>
-			<spring_coeff unit="LBS/FT">      210000.00 </spring_coeff>
-			<damping_coeff unit="LBS/FT/SEC"> 125500.00 </damping_coeff>
+			<spring_coeff unit="LBS/FT">      150000.00 </spring_coeff>
+			<damping_coeff unit="LBS/FT/SEC">  80500.00 </damping_coeff>
 			<max_steer unit="DEG">0</max_steer>
 			<brake_group>LEFT</brake_group>
 			<retractable>1</retractable>
@@ -811,10 +811,10 @@
 					<table>
 						<independentVar lookup="row">aero/alpha-rad</independentVar>
 						<tableData>
-							-0.20 -0.880
-							 0.00  0.700
-							 0.23  1.600
-							 0.60  1.050
+							-0.20 -0.600
+							 0.00  0.440
+							 0.23  1.340
+							 0.60  0.780
 						</tableData>
 					</table>
 				</product>
@@ -826,7 +826,7 @@
 					<property>aero/qbar-psf</property>
 					<property>metrics/Sw-sqft</property>
 					<property>fcs/flap-pos-deg</property>
-					<value> 0.03000 </value>
+					<value> 0.02000 </value>
 				</product>
 			</function>
 
@@ -846,7 +846,7 @@
 					<property>aero/qbar-psf</property>
 					<property>metrics/Sw-sqft</property>
 					<property>fcs/elevator-pos-rad</property>
-					<value>0.2</value>
+					<value>0.20</value>
 				</product>
 			</function>
 
@@ -862,11 +862,11 @@
 					<table>
 						<independentVar lookup="row">aero/alpha-rad</independentVar>
 						<tableData>
-							-1.57    1.500
-							-0.26    0.022
-							 0.00    0.017
-							 0.26    0.022
-							 1.57    1.500
+							-1.57    1.550
+							-0.26    0.072
+							 0.00    0.067
+							 0.26    0.072
+							 1.57    1.550
 						</tableData>
 					</table>
 				</product>
@@ -905,7 +905,7 @@
 					<property>aero/qbar-psf</property>
 					<property>metrics/Sw-sqft</property>
 					<property>fcs/flap-pos-deg</property>
-					<value> 0.00300 </value>
+					<value> 0.00350 </value>
 				</product>
 			</function>
 
