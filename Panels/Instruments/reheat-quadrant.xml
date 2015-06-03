@@ -42,7 +42,7 @@ Hacked to create a single reheat quadrant.
   <layer>
    <name>backplate</name>
    <texture>
-    <path>Aircraft/B-52F/Panels/Instruments/Textures/faces-LE-misc1.rgb</path>
+    <model><path>Aircraft/StratoFortress-Jsb/Panels/Instruments/Textures/faces-LE-misc1.rgb</path>
     <x1>0.0</x1>
     <x2>0.125</x2>
     <y1>0.75</y1>

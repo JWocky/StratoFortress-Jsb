@@ -4,7 +4,7 @@
 
   <submodel>
     <name>trajectory marker</name>
-    <model>Aircraft/B-52F/Models/Trajectory-Marker.xml</model>
+    <model>Aircraft/StratoFortress-Jsb/Models/Trajectory-Marker.xml</model>
     <trigger>ai/submodels/trajectory-markers</trigger>
     <speed>0</speed>
     <repeat>true</repeat>

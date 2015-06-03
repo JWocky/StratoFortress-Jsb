@@ -38,7 +38,7 @@ Hacked by Lee Elliott for the B-52F mock panel
 <PropertyList>
 
  <name>B-52 F mock VFR Panel</name>
- <background>Aircraft/B-52F/Panels/Textures/B-52F-panel-bg.rgb</background>
+ <background>Aircraft/StratoFortress-Jsb/Panels/Textures/B-52F-panel-bg.rgb</background>
  <w>1424</w>
  <h>468</h>
  <y-offset>0</y-offset>

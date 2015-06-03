@@ -235,11 +235,11 @@
 		</airport>
 
 		<!-- panel>
-			<path>Aircraft/B-52F/Panels/B-52F-vfr-panel.xml</path>
+			<model><path>Aircraft/StratoFortress-Jsb/Panels/B-52F-vfr-panel.xml</path>
 		</panel>
 
 		<panel_2>
-			<path>Aircraft/B-52F/Panels/B-52F-mini-panel.xml</path>
+			<model><path>Aircraft/StratoFortress-Jsb/Panels/B-52F-mini-panel.xml</path>
 		</panel_2 -->
 
 		<!-- Help -->
