@@ -14,7 +14,7 @@
     <layer>
       <name>background</name>
       <texture>
-        <path>Aircraft/B-52F/Panels/Instruments/Textures/trans-dgrey-bg.rgb</path>
+        <path>Aircraft/StratoFortress-Jsb/Panels/Instruments/Textures/trans-dgrey-bg.rgb</path>
       </texture>
       <w>110</w>
       <h>34</h>
